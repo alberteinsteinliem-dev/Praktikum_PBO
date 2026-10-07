@@ -1,4 +1,4 @@
-# Portal Event Mahasiswa - System Pendaftaran & Transaksi Lomba (OOP Python)
+# Portal Event Mahasiswa - System Pendaftaran & Transaksi Lomba (OOP Python) 
 
 Proyek ini merupakan implementasi program berbasis **Object-Oriented Programming (OOP)** menggunakan bahasa Python. Sistem ini dirancang untuk mengelola proses pendaftaran dan pembayaran lomba/event mahasiswa dengan menerapkan konsep **Relasi UML** dan **Inheritance (Pewarisan)** secara penuh sesuai dengan standar modul pemrograman.
 
