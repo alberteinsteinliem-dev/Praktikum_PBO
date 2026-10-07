@@ -1,4 +1,4 @@
-# Laporan & Dokumentasi Program Sistem Manajemen Event dan Lomba (OOP Python)
+# Laporan & Dokumentasi Program Sistem Manajemen Event dan Lomba (OOP Python) 
 Dokumentasi ini dibuat untuk menjelaskan struktur program, implementasi materi Object-Oriented Programming (OOP), serta panduan pengujian program Sistem Manajemen Pendaftaran Event dan Lomba. Program ini dibuat menggunakan bahasa Pemrograman Python berbasis pendekatan OOP.
 
 ## 1. Penjelasan Program
