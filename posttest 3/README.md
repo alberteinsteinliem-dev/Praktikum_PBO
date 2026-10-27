@@ -7,7 +7,7 @@ Aplikasi ini adalah sistem pengelolaan pendaftaran dan transaksi lomba berbasis 
 ## 1. Class Diagram & Penjelasan Relasi UML
 
 ### Class Diagram
-![Class Diagram](Untitled Diagram.drawio)
+![Class Diagram](Untitled%20Diagram.drawio.png)
 
 ### Penjelasan Relasi Antar Kelas:
 
